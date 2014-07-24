@@ -5,7 +5,7 @@ The ``plonetheme.changecenter`` package uses the *theming & packaging* features
 available in `plone.app.theming`_ to make a theme for the
 `The Center for Institutional and Social Change`_ Website with `Plone 4.3.x`_.
 
-.. image:: https://raw.github.com/macagua/plonetheme.changecenter/master/plonetheme/changecenter/static/preview.png
+.. image:: https://raw.githubusercontent.com/collective/plonetheme.changecenter/master/plonetheme/changecenter/static/preview.png
   :alt: A plonetheme.changecenter product screenshot
 
 .. _`plone.app.theming`: http://pypi.python.org/pypi/plone.app.theming
