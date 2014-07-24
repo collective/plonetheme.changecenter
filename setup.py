@@ -5,8 +5,8 @@ version = '1.0'
 
 setup(name='plonetheme.changecenter',
       version=version,
-      description="A diazo theme for Plone 4.1 for changecenter.org",
-      long_description=open("README.txt").read() + "\n" +
+      description="A diazo theme for Plone 4.3.x for changecenter.org",
+      long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
