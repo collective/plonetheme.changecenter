@@ -1,15 +1,15 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0'
+version = '1.1'
 
 setup(name='plonetheme.changecenter',
       version=version,
-      description="A diazo theme for Plone 4.3 for changecenter.org",
+      description="Change center, is an installable Diazo theme for Plone using at changecenter.org",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
-      # http://pypi.python.org/pypi?:action=list_classifiers
+      # https://pypi.org/pypi?:action=list_classifiers
       classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Web Environment',
@@ -17,10 +17,12 @@ setup(name='plonetheme.changecenter',
         'Framework :: Plone :: 4.1',
         'Framework :: Plone :: 4.2',
         'Framework :: Plone :: 4.3',
+        'Framework :: Plone :: Theme',
         'Framework :: Zope2',
         'Framework :: Zope3',
         'Intended Audience :: Developers',
         'Intended Audience :: End Users/Desktop',
+        'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.6',
@@ -28,7 +30,7 @@ setup(name='plonetheme.changecenter',
         'Topic :: Internet',
         'Topic :: Software Development :: Libraries :: Python Modules',
         ],
-      keywords='web zope plone theme diazo',
+      keywords='web zope plone theme diazo changecenter',
       author='Andrew Pasquale',
       author_email='andrew@elytra.net',
       url='https://a-pasquale@github.com/a-pasquale/plonetheme.changecenter.git',

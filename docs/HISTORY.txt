@@ -6,7 +6,7 @@ Changelog
 
 - Added Diazo theme zip file [macagua]
 
-- Added more strings classifiers items for this packages [macagua]
+- Added more strings classifiers items for this package [macagua]
 
 - Added uninstall genericsetup profile for this package [macagua]
 
