@@ -86,7 +86,7 @@ Enabling the theme
 ^^^^^^^^^^^^^^^^^^
 
 Browse to ``http://yoursite/Plone/@@theming-controlpanel`` click on ``Enable`` on 
-``plonetheme changecenter`` theme from the Diazo control panel. That's it!
+``Change Center`` theme from the Diazo control panel. That's it!
 
 .. image:: https://github.com/collective/plonetheme.changecenter/raw/master/screenshot2.png
   :width: 1024px
