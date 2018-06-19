@@ -16,13 +16,13 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
-    <genericsetup:registerProfile
-        name="uninstall"
-        directory="profiles/uninstall"
-        title="plonetheme.changecenter: Uninstall profile for Plone 4 Diazo Theme"
-        description="Uninstall the plonetheme.changecenter package"
-        provides="Products.GenericSetup.interfaces.EXTENSION"
-        />
+  <genericsetup:registerProfile
+      name="uninstall"
+      directory="profiles/uninstall"
+      title="plonetheme.changecenter: Uninstall profile for Plone 4 Diazo Theme"
+      description="Uninstall the plonetheme.changecenter package"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
 
   <include package="plone.resource" file="meta.zcml"/>
   <plone:static directory="static" type="theme" name="plonetheme.changecenter" />
