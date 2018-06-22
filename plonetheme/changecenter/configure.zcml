@@ -19,7 +19,7 @@
   <genericsetup:registerProfile
       name="uninstall"
       directory="profiles/uninstall"
-      title="plonetheme.changecenter: Uninstall profile for Plone 4 Diazo Theme"
+      title="plonetheme.changecenter Uninstall"
       description="Uninstall the plonetheme.changecenter package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
