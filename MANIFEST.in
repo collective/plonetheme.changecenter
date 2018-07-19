@@ -1,2 +1,2 @@
 recursive-include docs *
-global-exclude *py[co], *mo
+global-exclude *py[co] *mo

@@ -4,6 +4,9 @@ Changelog
 1.1 (unreleased)
 ----------------
 
+- Fixed warning: no previously-included files matching '*py[co],' and '*mo' 
+  found anywhere in distribution from MANIFEST.in file [macagua]
+
 - Updated Diazo manifest file [macagua]
 
 - Added improvements about README file [macagua]
